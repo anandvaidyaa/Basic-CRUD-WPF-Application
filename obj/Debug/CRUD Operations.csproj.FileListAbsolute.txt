@@ -1,0 +1,16 @@
+C:\Users\anand\source\repos\CRUD Operations\bin\Debug\CRUD Operations.exe.config
+C:\Users\anand\source\repos\CRUD Operations\bin\Debug\CRUD Operations.exe
+C:\Users\anand\source\repos\CRUD Operations\bin\Debug\CRUD Operations.pdb
+C:\Users\anand\source\repos\CRUD Operations\obj\Debug\CRUD Operations.csproj.AssemblyReference.cache
+C:\Users\anand\source\repos\CRUD Operations\obj\Debug\CRUD Operations.csproj.SuggestedBindingRedirects.cache
+C:\Users\anand\source\repos\CRUD Operations\obj\Debug\MainWindow.g.cs
+C:\Users\anand\source\repos\CRUD Operations\obj\Debug\App.g.cs
+C:\Users\anand\source\repos\CRUD Operations\obj\Debug\CRUD Operations_MarkupCompile.cache
+C:\Users\anand\source\repos\CRUD Operations\obj\Debug\CRUD Operations_MarkupCompile.lref
+C:\Users\anand\source\repos\CRUD Operations\obj\Debug\MainWindow.baml
+C:\Users\anand\source\repos\CRUD Operations\obj\Debug\CRUD Operations.g.resources
+C:\Users\anand\source\repos\CRUD Operations\obj\Debug\CRUD_Operations.Properties.Resources.resources
+C:\Users\anand\source\repos\CRUD Operations\obj\Debug\CRUD Operations.csproj.GenerateResource.cache
+C:\Users\anand\source\repos\CRUD Operations\obj\Debug\CRUD Operations.csproj.CoreCompileInputs.cache
+C:\Users\anand\source\repos\CRUD Operations\obj\Debug\CRUD Operations.exe
+C:\Users\anand\source\repos\CRUD Operations\obj\Debug\CRUD Operations.pdb
